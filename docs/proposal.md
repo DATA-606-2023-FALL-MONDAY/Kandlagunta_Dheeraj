@@ -23,31 +23,21 @@ Data Size:
 
 Records:
 - Reviews: 6,990,280
-- Businesses: 150,346 
-- Tips: 908,915
+- Businesses: 150,346
 - Users: 1,987,897
-
-Geographic Coverage: 
-- 11 metropolitan areas
 
 Additional Data:
 - Over 1.2 million business attributes (hours, parking, availability, ambience etc.)
 - Aggregated check-ins over time for each of the 131,930 businesses
 
-
-
 Data Shape: 
 - business.json: approximately 161,000 rows and 11 columns
 - review.json: over 5.5 million rows and 7 columns  
 - user.json: over 1 million rows and 20 columns
-- checkin.json: over 36 million rows and 2 columns
-- tip.json: over 750,000 rows and 6 columns 
 
-Time Period: Data spans from 2004 to present day.
+Time Period: Data spans from 2004 to 2022.
 
 What does each row represent?
 - business.json: Each row represents a unique business listed on Yelp.
 - review.json: Each row represents a specific review written by a user.
 - user.json: Each row represents a Yelp user profile.
-- checkin.json: Each row represents a single check-in to a business by a user. 
-- tip.json: Each row represents a tip written by a user about a business.
