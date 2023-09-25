@@ -5,7 +5,7 @@
 
 - Project Title: Yelp Explorer: A Chatbot Assistant for Finding and Learning About Local Businesses
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Dheeraj Kandlagunta 
+- Author Name: Dheeraj Kandlagunta 
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/tree/dev)
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-kandlagunta/)
 
@@ -51,3 +51,5 @@ What does each row represent?
 - business.json: Each row represents a unique business listed on Yelp.
 - review.json: Each row represents a specific review written by a user.
 - user.json: Each row represents a Yelp user profile.
+
+In-depth description: https://www.yelp.com/dataset/documentation/main
