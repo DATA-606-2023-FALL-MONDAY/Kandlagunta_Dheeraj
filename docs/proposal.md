@@ -3,7 +3,7 @@
 
 ## 1. Title and Author
 
-- Project Title: Yelp Explorer: A Chatbot Assistant for Finding and Learning About Local Businesses
+- Project Title: Yelp Explorer: An Assistant for Finding and Learning About Local Businesses
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Author Name: Dheeraj Kandlagunta 
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/tree/dev)
@@ -11,7 +11,7 @@
 
 ## 2. Background
 
-For my capstone project, I'm creating a chatbot assistant called Yelp Explorer that will assist customers in finding and learning about local businesses using natural language interactions. This chatbot attempts to be a helpful navigator through the vast quantity of data on Yelp as more people depend on online reviews and recommendations when choosing where to eat, buy, and spend their free time. The chatbot may offer users personalized suggestions and information by using machine learning to analyze customer reviews, ratings, and qualities of businesses. 
+For my capstone project, I'm creating an assistant called Yelp Explorer that will assist customers in finding and learning about local businesses using natural language interactions. This application attempts to be a helpful navigator through the vast quantity of data on Yelp as more people depend on online reviews and recommendations when choosing where to eat, buy, and spend their free time. The application may offer users personalized suggestions and information by using machine learning to analyze customer reviews, ratings, and qualities of businesses. 
 
 The Sentiment Analysis tools, such as Textblob and LSTM-based models, will be employed to evaluate user reviews and derive quantitative sentiment metrics. By combining sentiment scores with review ratings, a super score will be developed, representing users' comprehensive experiences and feelings towards businesses. This score will be utilized in the Collaborative Filtering Recommendation System.
 
