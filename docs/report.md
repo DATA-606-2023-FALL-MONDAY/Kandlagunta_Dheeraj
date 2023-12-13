@@ -6,8 +6,8 @@
 - Author Name: Dheeraj Kandlagunta 
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj)
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-kandlagunta/)
-- [PowerPoint Presentation]()
-- [Youtube Video]()
+- [PowerPoint Presentation](https://drive.google.com/file/d/1tKonWrM2OWWD5gYsAUmfXtgkWEw1S5PO/view?usp=share_link)
+- [Youtube Video](https://youtu.be/rtfr7nbwBoQ)
 
 ## Background
 #### What is Yelp Explorer About?
@@ -291,8 +291,6 @@ Topic Modeling is a vital component of the Yelp Explorer project, aimed at uncov
 
 ## Recommendation Systems
 
-### Recommendation Systems
-
 In the Yelp Explorer project, three distinct recommendation systems were developed to enhance the user experience in discovering restaurants in Philadelphia. Each system uses a unique approach, leveraging the rich dataset from Yelp reviews and business information.
 
 1. **Location-Based Recommendation System**
@@ -379,3 +377,23 @@ To further improve and evolve the Yelp Explorer project, the following enhanceme
    - **Expected Outcome**: The adoption of these sophisticated AI techniques is expected to significantly enhance the recommendation system's ability to learn complex user preferences and behavior patterns. It could lead to more accurate, personalized, and context-aware restaurant recommendations.
 
 ## References
+
+Arora, G., Kumar, A., Devre, G. S., & Ghumare, A. (2014). Movie recommendation system based on users similarity. *International Journal of Computer Science and Mobile Computing*, 3(4).
+
+Bao, J., Zheng, Y., & Mokbel, M. F. (2012). Location-based and preference-aware recommendation using sparse geo-social networking data. In *Proceedings of the 20th International Conference on Advances in Geographic Information Systems*. ACM. 
+
+Burke, R., Hybrid recommender systems: Survey and experiments. Retrieved from http://josquin.cs.depaul.edu/∼rburke/pubs/burke-umuai02.pdf
+
+Cosley, D., Konstan, J. A., & Riedl, J. (2001). PolyLens: A recommender system for groups of users. In *Proceedings of the 7th European Conference on Computer Supported Cooperative Work*. 
+
+Gunawardana, A., & Shani, G., Evaluating recommendation systems. Retrieved from http://research.microsoft.com/pubs/115396/evaluationmetrics.tr.pdf
+
+Ihler, A., et al., Recommender systems designed for Yelp.com. Retrieved from http://www.math.uci.edu/icamp/summer/research/student_research/recommender_systems_slides.pdf
+
+Koren, Y., Factorization meets the neighborhood: A multifaceted collaborative filtering model. Retrieved from http://public.research.att.com/∼volinsky/netflix/kdd08koren.pdf
+
+Recommender Systems, Dimensionality Reduction and the Singular Value Decomposition., Retrieved from http://www.cs.carleton.edu/cs comps/0607/recommend/recommender/svd.html
+
+Sajnani, H., Saini, V., Kumar, K., Gabrielova, E., Choudary, P., & Lopes, C., Classifying Yelp reviews into relevant categories. Retrieved from http://www.ics.uci.edu/~vpsaini/
+
+Yelp., Yelp dataset challenge. Retrieved from http://www.yelp.com/dataset_challenge
