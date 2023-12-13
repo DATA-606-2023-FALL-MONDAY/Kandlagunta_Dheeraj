@@ -7,7 +7,7 @@
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj)
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-kandlagunta/)
 - [PowerPoint Presentation](https://drive.google.com/file/d/1tKonWrM2OWWD5gYsAUmfXtgkWEw1S5PO/view?usp=share_link)
-- [Youtube Video](https://youtu.be/rtfr7nbwBoQ)
+- [Youtube Video](https://youtu.be/voz4B3uoYfE)
 
 ## Background
 #### What is Yelp Explorer About?
