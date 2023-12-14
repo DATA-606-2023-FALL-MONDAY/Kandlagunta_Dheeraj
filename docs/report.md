@@ -9,6 +9,7 @@
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-kandlagunta/)
 - [PowerPoint Presentation](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/Yelp%20Explorer.pdf)
 - [Youtube Video](https://youtu.be/voz4B3uoYfE)
+- [Dataset](https://drive.google.com/drive/folders/1lO2N--jlq5uvApu4smsoNg01QdWekw9Y?usp=share_link)
 
 ## Background
 #### What is Yelp Explorer About?
