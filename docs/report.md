@@ -3,10 +3,11 @@
 ## Title and Author
 - Project Title: Yelp Explorer - Navigating Philly's Food Scene with Data
 - Prepared for UMBC Data Science Master Degree Capstone under guidance of Dr Chaojie (Jay) Wang
-- Author Name: Dheeraj Kandlagunta 
+- Author Name: Dheeraj Kandlagunta
+- Fall 2023 Semester
 - [GitHub](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj)
 - [LinkedIn](https://www.linkedin.com/in/dheeraj-kandlagunta/)
-- [PowerPoint Presentation](https://drive.google.com/file/d/1tKonWrM2OWWD5gYsAUmfXtgkWEw1S5PO/view?usp=share_link)
+- [PowerPoint Presentation](https://github.com/DATA-606-2023-FALL-MONDAY/Kandlagunta_Dheeraj/blob/main/docs/Yelp%20Explorer.pdf)
 - [Youtube Video](https://youtu.be/voz4B3uoYfE)
 
 ## Background
